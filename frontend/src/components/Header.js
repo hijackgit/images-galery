@@ -1,8 +1,8 @@
-import React from "react";
-import { Navbar, Container } from "react-bootstrap";
+import React from 'react';
+import { Navbar, Container } from 'react-bootstrap';
 
 const navBarStyle = {
-  backgroundColor: "lightBlue",
+  backgroundColor: 'lightBlue',
 };
 
 const Header = (props) => {
